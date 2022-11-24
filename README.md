@@ -20,7 +20,7 @@ The website is compatible with screen sizes of all resolutions.
 
 ## Built with 
 
-- [jQuery Validation Plugin](https://jqueryvalidation.org/)
+- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
 - [Yandex.Maps JavaScript API](https://yandex.ru/dev/maps/jsapi/)
 - [Slick Slider](https://kenwheeler.github.io/slick/)
 
